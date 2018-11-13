@@ -1,0 +1,3 @@
+author = exarobibliologist
+version = 0.1
+displayName = Tombstone Recipes
